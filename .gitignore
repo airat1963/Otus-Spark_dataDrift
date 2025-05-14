@@ -1,0 +1,13 @@
+*.tfstate
+*.tfvars
+.terraform.*
+*.terraform
+terraform.tfvars
+venv
+.venv
+terraform.tfstate.backup
+seasons.csv
+pyspark_example.py
+*.parquet
+.env
+*.txt
